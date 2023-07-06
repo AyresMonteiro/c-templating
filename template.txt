@@ -1,0 +1,3 @@
+I'm testing C templating.
+
+The text will be: "%s".
